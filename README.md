@@ -1,6 +1,6 @@
 bored developer doing stuff.
 
-usually that means building small tools that fix things that annoy me, mostly on macOS and in the browser, and every now and then a game prototype.
+usually that means building small tools that fix things that annoy me.
 
 #### Tech Stack
 
