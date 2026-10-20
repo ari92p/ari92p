@@ -1,0 +1,48 @@
+### hey, i'm arister 👋
+
+bored developer doing stuff.
+
+usually that means building small tools that fix things that annoy me, mostly on macOS and in the browser, and every now and then a game prototype.
+
+#### Tech Stack
+
+<p>
+  <img alt="Tauri" src="https://img.shields.io/badge/Tauri-F4F5F8?style=flat&logo=tauri&logoColor=FFC131">
+  <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-F4F5F8?style=flat&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="shadcn-vue" src="https://img.shields.io/badge/shadcn--vue-F4F5F8?style=flat&logo=shadcnui&logoColor=000000">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-F4F5F8?style=flat&logo=tailwindcss&logoColor=38BDF8">
+  <img alt="vue-i18n" src="https://img.shields.io/badge/vue--i18n-F4F5F8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNDFCODgzIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==">
+</p>
+
+also tinkering with
+
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F4F5F8?style=flat&logo=swift&logoColor=F05138">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-F4F5F8?style=flat&logo=rust&logoColor=000000">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F4F5F8?style=flat&logo=typescript&logoColor=3178C6">
+  <img alt="Python" src="https://img.shields.io/badge/Python-F4F5F8?style=flat&logo=python&logoColor=3776AB">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-F4F5F8?style=flat&logo=astro&logoColor=BC52EE">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
+</p>
+
+#### Stuff I made
+
+| | |
+| --- | --- |
+| 🍿 [**crunchyroll-pip-extension**](https://github.com/ari92p/crunchyroll-pip-extension) | Picture-in-Picture button right in the Crunchyroll player. [On the Chrome Web Store](https://chromewebstore.google.com/detail/crunchyroll-pip-helper/efbolanjjjjhlfjghaicbfgbomjilhbo). |
+| 🔊 [**ddc-volume-keys**](https://github.com/ari92p/ddc-volume-keys) | macOS menu bar app that sends your volume keys to an external display's speakers via DDC. |
+| 🌗 [**circular-theme-switch**](https://github.com/ari92p/circular-theme-switch) | Circular, expanding dark/light theme switch. Zero dependencies. |
+| ⏱️ [**TimeTracker**](https://github.com/ari92p/TimeTracker) | A lightweight time tracker for work. |
+| ⚔️ [**warcraft-survivors**](https://github.com/ari92p/warcraft-survivors) | My fork of a Vampire Survivors-style roguelite in the WoW 1.12.1 world, written in Rust. |
+
+#### Currently cooking 🧪
+
+- **Slate**: browser extension that cleans matching history entries with one click (26 languages)
+- **MoonDock**: macOS menu bar companion for Moonlight game streaming
+- **rota**: self-hosted job search app that writes tailored resumes and cover letters
+- **Warcraft Zones Zero**: third-person WoW dungeon action prototype
+- a homelab on a NAS, held together with Docker Compose
+
+#### Contributions
+
+- [discord-quest-helper](https://github.com/Masterain98/discord-quest-helper): fixed the macOS Discord CDP launch ([#193](https://github.com/Masterain98/discord-quest-helper/pull/193))
