@@ -8,6 +8,8 @@ usually that means building small tools that fix things that annoy me, mostly on
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F4F5F8?style=flat&logo=swift&logoColor=F05138">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-F4F5F8?style=flat&logo=rust&logoColor=000000">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F4F5F8?style=flat&logo=typescript&logoColor=3178C6">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-F4F5F8?style=flat&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="React" src="https://img.shields.io/badge/React-F4F5F8?style=flat&logo=react&logoColor=61DAFB">
   <img alt="Python" src="https://img.shields.io/badge/Python-F4F5F8?style=flat&logo=python&logoColor=3776AB">
   <img alt="Astro" src="https://img.shields.io/badge/Astro-F4F5F8?style=flat&logo=astro&logoColor=BC52EE">
   <img alt="C#" src="https://img.shields.io/badge/C%23-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
