@@ -36,6 +36,7 @@ always happy to contribute.
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-F4F5F8?style=flat&logo=kubernetes&logoColor=326CE5">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-F4F5F8?style=flat&logo=githubactions&logoColor=2088FF">
   <img alt="Coolify" src="https://img.shields.io/badge/Coolify-F4F5F8?style=flat&logo=coolify&logoColor=6B16ED">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-F4F5F8?style=flat&logo=vercel&logoColor=000000">
   <img alt="Hetzner" src="https://img.shields.io/badge/Hetzner-F4F5F8?style=flat&logo=hetzner&logoColor=D50C2D">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-F4F5F8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBmaWxsPSIjMDA3OEQ0IiBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4=&logoColor=0078D4">
 </p>
