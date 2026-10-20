@@ -2,6 +2,8 @@ bored developer doing stuff.
 
 usually that means building small tools that fix things that annoy me.
 
+always happy to contribute.
+
 #### Tech Stack
 
 <p>
