@@ -44,6 +44,6 @@ always happy to contribute.
 #### Support
 
 <p>
-  <a href="https://ko-fi.com/ari92p"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F4F5F8?style=flat&logo=kofi&logoColor=FF5E5B"></a>
-  <a href="https://buymeacoffee.com/ari92p"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F4F5F8?style=flat&logo=buymeacoffee&logoColor=000000"></a>
+  <a href="https://ko-fi.com/ari92p"><img alt="Support me on Ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg" height="36"></a>
+  <a href="https://buymeacoffee.com/ari92p"><img alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="36"></a>
 </p>
