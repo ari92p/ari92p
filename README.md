@@ -1,6 +1,6 @@
-bored developer doing stuff.
+senior software engineer, mostly C#/.NET. eight years of ERP development.
 
-usually that means building small tools that fix things that annoy me.
+on the side i build small tools that fix things that annoy me.
 
 always happy to contribute.
 
@@ -8,12 +8,12 @@ always happy to contribute.
 
 <b>Languages</b><br>
 <p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F4F5F8?style=flat&logo=typescript&logoColor=3178C6">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F4F5F8?style=flat&logo=javascript&logoColor=F7DF1E">
   <img alt="Python" src="https://img.shields.io/badge/Python-F4F5F8?style=flat&logo=python&logoColor=3776AB">
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F4F5F8?style=flat&logo=swift&logoColor=F05138">
   <img alt="Rust" src="https://img.shields.io/badge/Rust-F4F5F8?style=flat&logo=rust&logoColor=000000">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-F4F5F8?style=flat&logo=lua&logoColor=2C2D72">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-F4F5F8?style=flat&logo=gnubash&logoColor=4EAA25">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F4F5F8?style=flat&logo=html5&logoColor=E34F26">
@@ -22,6 +22,9 @@ always happy to contribute.
 
 <b>Frameworks and apps</b><br>
 <p>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
+  <img alt="WPF" src="https://img.shields.io/badge/WPF-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
   <img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-F4F5F8?style=flat&logo=vuedotjs&logoColor=4FC08D">
   <img alt="React" src="https://img.shields.io/badge/React-F4F5F8?style=flat&logo=react&logoColor=61DAFB">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-F4F5F8?style=flat&logo=nextdotjs&logoColor=000000">
@@ -48,10 +51,10 @@ always happy to contribute.
 
 <b>Backend and infrastructure</b><br>
 <p>
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-F4F5F8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0MyOTI3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8+PHBhdGggZD0iTTMgNXYxNGMwIDEuNyA0IDMgOSAzczktMS4zIDktM1Y1Ii8+PHBhdGggZD0iTTMgMTJjMCAxLjcgNCAzIDkgM3M5LTEuMyA5LTMiLz48L3N2Zz4=&logoColor=CC2927">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-F4F5F8?style=flat&logo=nodedotjs&logoColor=5FA04E">
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-F4F5F8?style=flat&logo=graphql&logoColor=E10098">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F4F5F8?style=flat&logo=postgresql&logoColor=4169E1">
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-F4F5F8?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0MyOTI3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGVsbGlwc2UgY3g9IjEyIiBjeT0iNSIgcng9IjkiIHJ5PSIzIi8+PHBhdGggZD0iTTMgNXYxNGMwIDEuNyA0IDMgOSAzczktMS4zIDktM1Y1Ii8+PHBhdGggZD0iTTMgMTJjMCAxLjcgNCAzIDkgM3M5LTEuMyA5LTMiLz48L3N2Zz4=&logoColor=CC2927">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-F4F5F8?style=flat&logo=docker&logoColor=2496ED">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-F4F5F8?style=flat&logo=kubernetes&logoColor=326CE5">
   <img alt="Caddy" src="https://img.shields.io/badge/Caddy-F4F5F8?style=flat&logo=caddy&logoColor=1F88C0">
