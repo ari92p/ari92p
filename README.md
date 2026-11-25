@@ -9,6 +9,7 @@ always happy to contribute.
 <b>Languages</b><br>
 <p>
   <a href="https://learn.microsoft.com/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%23-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4"></a>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-F4F5F8?style=flat&logo=powershell&logoColor=5391FE">
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F4F5F8?style=flat&logo=typescript&logoColor=3178C6"></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F4F5F8?style=flat&logo=javascript&logoColor=F7DF1E"></a>
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-F4F5F8?style=flat&logo=python&logoColor=3776AB"></a>
@@ -25,6 +26,10 @@ always happy to contribute.
   <a href="https://dotnet.microsoft.com/"><img alt=".NET" src="https://img.shields.io/badge/.NET-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4"></a>
   <a href="https://dotnet.microsoft.com/apps/aspnet"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4"></a>
   <a href="https://learn.microsoft.com/dotnet/desktop/wpf/"><img alt="WPF" src="https://img.shields.io/badge/WPF-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4"></a>
+  <img alt="SignalR" src="https://img.shields.io/badge/SignalR-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
+  <img alt="NUnit" src="https://img.shields.io/badge/NUnit-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
+  <img alt="WiX" src="https://img.shields.io/badge/WiX-F4F5F8?style=flat&logo=dotnet&logoColor=512BD4">
   <a href="https://vuejs.org/"><img alt="Vue 3" src="https://img.shields.io/badge/Vue%203-F4F5F8?style=flat&logo=vuedotjs&logoColor=4FC08D"></a>
   <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-F4F5F8?style=flat&logo=react&logoColor=61DAFB"></a>
   <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-F4F5F8?style=flat&logo=nextdotjs&logoColor=000000"></a>
@@ -67,5 +72,7 @@ always happy to contribute.
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F4F5F8?style=flat&logo=git&logoColor=F05032"></a>
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-F4F5F8?style=flat&logo=github&logoColor=181717"></a>
   <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-F4F5F8?style=flat&logo=githubactions&logoColor=2088FF"></a>
+  <img alt="TeamCity" src="https://img.shields.io/badge/TeamCity-F4F5F8?style=flat&logo=teamcity&logoColor=000000">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-F4F5F8?style=flat&logo=gitlab&logoColor=FC6D26">
   <a href="https://brew.sh/"><img alt="Homebrew" src="https://img.shields.io/badge/Homebrew-F4F5F8?style=flat&logo=homebrew&logoColor=FBB040"></a>
 </p>
