@@ -1,6 +1,6 @@
-senior software engineer, mostly C#/.NET. eight years of ERP development.
+bored developer doing stuff.
 
-on the side i build small tools that fix things that annoy me.
+usually that means building small tools that fix things that annoy me.
 
 always happy to contribute.
 
